@@ -2,6 +2,8 @@
 title: E-contrôle
 mission: Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées.
 owner: Cour des comptes
+owner_type: autre
+domaine_ministeriel: autres
 incubator: dinum
 status: acceleration
 start: 2018-09-03
