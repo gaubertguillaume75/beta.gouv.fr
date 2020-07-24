@@ -3,6 +3,8 @@ title: geo.data.gouv.fr
 mission: Trouver facilement les données géographiques dont vous avez besoin
 owner: Etalab
 incubator: dinum
+domaine_ministeriel: spm # Service du premier ministre
+owner_type: administration-centrale
 status: alumni
 start: 2015-01-01
 end:
